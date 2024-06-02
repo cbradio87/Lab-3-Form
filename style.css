@@ -1,0 +1,38 @@
+h1 {
+  text-align : center;
+  height : 65px;
+  color: red;
+  background: gray;
+  font-family: 'Pacifico', cursive;;
+}
+
+body{
+  background: black;
+  color: white;
+}
+
+#mainBox {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#zipError {
+  background: white;
+  color: black;
+}
+
+#passwordLengthError {
+  background: white;
+  color: black;
+}
+
+#usernameError {
+  background: white;
+  color: black;
+}
+
+#passwordAgainError {
+  background: white;
+  color: black;
+}
